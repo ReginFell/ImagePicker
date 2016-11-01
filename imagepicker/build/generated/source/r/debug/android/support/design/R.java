@@ -825,18 +825,18 @@ public final class R {
 		public static int abc_activitychooserview_choose_application = 0x7f070007;
 		public static int abc_capital_off = 0x7f070008;
 		public static int abc_capital_on = 0x7f070009;
-		public static int abc_font_family_body_1_material = 0x7f070014;
-		public static int abc_font_family_body_2_material = 0x7f070015;
-		public static int abc_font_family_button_material = 0x7f070016;
-		public static int abc_font_family_caption_material = 0x7f070017;
-		public static int abc_font_family_display_1_material = 0x7f070018;
-		public static int abc_font_family_display_2_material = 0x7f070019;
-		public static int abc_font_family_display_3_material = 0x7f07001a;
-		public static int abc_font_family_display_4_material = 0x7f07001b;
-		public static int abc_font_family_headline_material = 0x7f07001c;
-		public static int abc_font_family_menu_material = 0x7f07001d;
-		public static int abc_font_family_subhead_material = 0x7f07001e;
-		public static int abc_font_family_title_material = 0x7f07001f;
+		public static int abc_font_family_body_1_material = 0x7f070026;
+		public static int abc_font_family_body_2_material = 0x7f070027;
+		public static int abc_font_family_button_material = 0x7f070028;
+		public static int abc_font_family_caption_material = 0x7f070029;
+		public static int abc_font_family_display_1_material = 0x7f07002a;
+		public static int abc_font_family_display_2_material = 0x7f07002b;
+		public static int abc_font_family_display_3_material = 0x7f07002c;
+		public static int abc_font_family_display_4_material = 0x7f07002d;
+		public static int abc_font_family_headline_material = 0x7f07002e;
+		public static int abc_font_family_menu_material = 0x7f07002f;
+		public static int abc_font_family_subhead_material = 0x7f070030;
+		public static int abc_font_family_title_material = 0x7f070031;
 		public static int abc_search_hint = 0x7f07000a;
 		public static int abc_searchview_description_clear = 0x7f07000b;
 		public static int abc_searchview_description_query = 0x7f07000c;
@@ -846,9 +846,9 @@ public final class R {
 		public static int abc_shareactionprovider_share_with = 0x7f070010;
 		public static int abc_shareactionprovider_share_with_application = 0x7f070011;
 		public static int abc_toolbar_collapse_description = 0x7f070012;
-		public static int appbar_scrolling_view_behavior = 0x7f070021;
-		public static int bottom_sheet_behavior = 0x7f070022;
-		public static int character_counter_pattern = 0x7f070024;
+		public static int appbar_scrolling_view_behavior = 0x7f070032;
+		public static int bottom_sheet_behavior = 0x7f070033;
+		public static int character_counter_pattern = 0x7f070034;
 		public static int status_bar_notification_info_overflow = 0x7f070013;
 	}
 	public static final class style {
